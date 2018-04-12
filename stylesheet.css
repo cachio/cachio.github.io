@@ -8,11 +8,19 @@
   color: #02ccba;
 }
 
-.img {
-    position: relative;
+.main {
+    float: left;
 }
     
-.icon p {
+.main-icon {
+    position: relative;
+}
+
+.icon {
+    
+}  
+    
+.icon-p {
     position: absolute;
     top: 10px;
     left: 20px;
