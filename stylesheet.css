@@ -10,6 +10,8 @@
 
 .main {
     float: left;
+    width: 25%
+    margin: 10px
 }
     
 .main-icon {
@@ -23,5 +25,7 @@
 .icon-p {
     position: absolute;
     top: 10px;
-    left: 20px;
+    left: 50px;
+    color: white;
 }
+    
