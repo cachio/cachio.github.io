@@ -5,10 +5,10 @@
 
 .header-container {
   background-image: url(fullsizeoutput_18d.jpeg);
+  background-size: cover;
   margin: 0 auto;
-  height: 50px;
-  background-color: yellow;
-  border-left: 2px solid black;
+  height: 110px;
+  border-bottom: : 5px solid #02ccba;
 }
 
 .title {
@@ -24,12 +24,12 @@
 .main {
   float: left;
   width: 25%
-
 }
 
 .main-icon {
   position: relative;
   margin: 0 auto;
+  margin: 10px:
 }
 
 .icon {
