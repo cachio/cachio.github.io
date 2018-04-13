@@ -29,3 +29,10 @@
     left: 50px;
     color: white;
 }
+
+.main-text p {
+    font-size: 10px;
+    border: 2px solid blue;
+    width: 100px;
+    height: 15px;
+}
